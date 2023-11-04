@@ -304,6 +304,10 @@
 		{
 			"Name": "InterchangeTests",
 			"Enabled": false
+		},
+		{
+			"Name": "Flow",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
